@@ -10,5 +10,5 @@ awk '{
      for (var in stat) 
          print var, stat[var]
      }' | \
-sort -k2 -gr | \
+sort -k2 -nr | \
 head -n3
