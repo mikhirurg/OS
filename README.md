@@ -1,4 +1,4 @@
 # OS
 
 - [LAB1](/LABS/LAB1/README.md)
-- [LAB2] (/LABS/LAB2/README.md)
+- [LAB2](/LABS/LAB2/README.md)
